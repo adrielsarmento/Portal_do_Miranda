@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'InstrumentSerif-Regular';
+  src: url(InstrumentSerif-Regular.ttf) format(truetype);
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -73,6 +78,14 @@ body {
   height: 60px;
   transform: rotate(360deg);
   transition: 2s;
+}
+
+footer {
+  padding: 10px 0 10px;
+	background: #5269A0 url("footer.png") no-repeat;
+	background-size: 100% auto;
+	color: #BAC5DC;
+	width: 100%;
 }
 
 @media screen and (max-width: 600px) {
