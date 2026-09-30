@@ -90,11 +90,26 @@ body {
   transition: 2s;
 }
 
+.opção {
+  display: inline-block;
+  background-image: linear-gradient(to top, rgb(253, 179, 179),rgb(215, 26, 26));
+  padding: 8px;
+  margin: 12px;
+}
+
+.opção:active{
+  background-image: linear-gradient(to bottom, rgb(253, 179, 179),rgb(215, 26, 26));
+}
+
+#se-preferir {
+  font-family: 'InstrumentSerif-Regular', Arial, Helvetica, sans-serif;
+}
+
 footer {
   margin-top: 25px;
   padding: 10px;
 	background: #5269A0 url("footer.png") no-repeat;
-  font-family: 'InstrumentSerif-Regular';
+  font-family: 'InstrumentSerif-Regular', Arial, Helvetica, sans-serif;
 	background-size: 100% auto;
 	color: #fff;
   text-align: center;
