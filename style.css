@@ -35,6 +35,7 @@ body {
 
 #navegation button {
   padding: 4px;
+  margin-left: 13px;
   background-image: linear-gradient(to top, rgb(185, 219, 255), rgb(46, 112, 177));
   transition: 0.4s;
 }
@@ -78,6 +79,7 @@ body {
   height: 50px;
   display: block;
   margin: auto;
+  margin-top: 25px;
   transition: 2s;
 }
 
@@ -101,6 +103,10 @@ footer {
 }
 
 @media screen and (max-width: 600px) {
+  #navegation button {
+    margin: 8px;
+  }
+
   #paper {
     margin: 0px;
     border-radius: 0px;
