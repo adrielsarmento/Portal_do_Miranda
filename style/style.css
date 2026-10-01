@@ -28,7 +28,7 @@ body {
 #navegation {
   text-align: center;
   padding: 8px;
-  background-image: url(img/fita_zebrada.png);
+  background-image: url(../img/fita_zebrada.png);
   background-position: center;
   background-size: cover;
 }
@@ -61,6 +61,10 @@ body {
   transition: 0.4s;
 }
 
+#navegation a::after {
+  color: #ffff00;
+}
+
 #navegation abbr {
   text-decoration: none;
 }
@@ -84,7 +88,7 @@ body {
 }
 
 #ball_brasil:hover {
-  content: url(img/meu_brasilzinho!.png);
+  content: url(../img/meu_brasilzinho!.png);
   height: 60px;
   transform: rotate(360deg);
   transition: 2s;
