@@ -9,6 +9,10 @@
  <img src="img/fotos_do_meu_site/Captura de tela de 2026-09-29 23-02-12.png" alt="também uma imagem que mostra como é o meu site">
  <summary>
   <details>
-   <p>Testando se summary e details funciona, se sim, que bom</p>
+   <p>aqui é onde onde vocês podem verem os meus sites mais ambiciosos na minha opinião. E esses são os sites: </p>
+   <ul>
+    <li>[FOHIT]</li>
+    <li>O site onde você está lendo</li>
+   </ul>
   </details>
  </sumarry>
