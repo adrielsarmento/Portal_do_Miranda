@@ -6,3 +6,4 @@
  caso, você ainda esteja desconfiado e curioso também como é o meu site, aqui está umas imagens de como ele é:
  <img src="img/fotos_do_meu_site/Captura de tela de 2026-09-29 23-01-57.png" alt="uma imagem que mostra como é o meu site">
  e esse aí tmb
+ <img src="img/fotos_do_meu_site/Captura de tela de 2026-09-29 23-02-12.png" alt="também uma imagem que mostra como é o meu site">
